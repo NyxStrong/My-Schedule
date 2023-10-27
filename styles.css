@@ -1,0 +1,16 @@
+/* Nyx Strong */
+body {
+    width: 100%;
+}
+.container {
+    
+    width: 80%;
+    margin: 0% 10%;
+}
+header {
+    width: 100%;
+    text-align: center;
+}
+table {
+    width: 100%;
+}
